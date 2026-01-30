@@ -1,0 +1,1 @@
+This code was generally speaking refactored code by Qwen, based on my python project for 1st semester general mechanics question of choice. That one was coded in a night, and this version is coded in the evening to better understand reflection of waves under different boundary conditions.
